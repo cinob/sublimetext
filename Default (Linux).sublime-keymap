@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+alt+c"], "command": "convert_to_utf8", "args": {"encoding": "GBK", "stamp": "0" } },
+	{ "keys": ["shift+tab"], "command": "reindent" ,"args":{ "single_line": false } },
+	{ "keys": ["alt+space"], "command": "auto_complete" },
+]
