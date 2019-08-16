@@ -1,0 +1,6 @@
+{
+    "jsdocs_extra_tags":[
+        "@author   cinob",
+        "@dateTime {{date}}"
+    ]
+}
